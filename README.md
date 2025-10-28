@@ -27,6 +27,7 @@ This commands includes
 <BR>
 
 ## Output
+<img width="1919" height="1140" alt="image" src="https://github.com/user-attachments/assets/8bcb7c07-899b-4206-868a-1c974b9d5753" />
 
 ## Result
 Thus Execution of Network commands Performed 
